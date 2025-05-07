@@ -32,11 +32,12 @@
 ```
 ---
 
-### 📈 GitHub Contribution Snake
+<!-- Snake Animation -->
+<div align="center">
+    
+  ![snake gif](https://github.com/GeorgioMazraani/GeorgioMazraani/blob/output/github-snake-dark.svg)
+</div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/GeorgioMazraani/GeorgioMazraani/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
 
 ### 🔗 Let's Connect
 
