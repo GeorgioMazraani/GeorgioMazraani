@@ -5,7 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=14F7D6&width=435&lines=Full-stack+%7C+AI-powered+developer+with+vision;React%2C+TSX%2C+Node%2C+Tailwind%2C+Next.js;Let%E2%80%99s+build+cool+things+together+%F0%9F%91%BB" />
 </p>
 
----
 
 ### 🧠 About Me
 
@@ -17,7 +16,6 @@
 - 🌐 Hosting free websites via **Netlify**, **Vercel**, and more
 - ⚡ Fun fact: I believe in pixel-perfect code & padel smashes 🎾
 
----
 
 ### 🧠 My Tech Stack Matrix
 
@@ -30,7 +28,6 @@
 🧠 Currently    → Reinforcement Learning · WebGL · Clean Architecture
 
 ```
----
 
 <!-- Snake Animation -->
 <div align="center">
@@ -47,13 +44,13 @@
   <a href="https://georgioportfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
----
+
 
 ### 🧠 Quote of the Day
 
 > _"Build things you wish existed."_ — _Me, probably_
 
----
+
 
 <!-- Profile View Counter -->
 <p align="center">
