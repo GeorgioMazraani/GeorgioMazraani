@@ -1,8 +1,3 @@
-<!-- 👋 Welcome Header -->
-<p align="center">
-  <img src="https://i.imgur.com/NvJgUl1.gif" width="100%" alt="Welcome Banner">
-</p>
-
 <h1 align="center">Hi 👋, I'm Georgio Mazraani</h1>
 <h3 align="center">🚀 Passionate Full-Stack Developer | 🎓 CS @ University of Balamand | 💡 AI, React, and Next.js Enthusiast</h3>
 
