@@ -30,6 +30,13 @@
 🧠 Currently    → Reinforcement Learning · WebGL · Clean Architecture
 
 ```
+---
+
+### 📈 GitHub Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GeorgioMazraani/GeorgioMazraani/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>
 
 ### 🔗 Let's Connect
 
