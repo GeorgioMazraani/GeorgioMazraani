@@ -31,22 +31,12 @@
 
 ```
 
----
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/GeorgioMazraani/GeorgioMazraani/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
-
 ### 🔗 Let's Connect
 
 <p align="left">
-  <a href="mailto:georgiomazraani@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:mazraanigeorgio@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/georgiomazraani/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://georgioportfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 ---
@@ -54,14 +44,6 @@
 ### 🧠 Quote of the Day
 
 > _"Build things you wish existed."_ — _Me, probably_
-
----
-
-### 🛠 Projects Worth Checking
-
-- [🔐 AI Toxic Chat Filter](https://github.com/GeorgioMazraani/toxic-chat-filter) — real-time harm detection using BERT  
-- [📱 AI Learning App (Senior Project)](https://github.com/GeorgioMazraani/ai-learning-app) — mobile adaptive learning  
-- [🎞 Netflix Movie Browser](https://github.com/GeorgioMazraani/netflix-browser) — modern UI clone using TMDB API
 
 ---
 
