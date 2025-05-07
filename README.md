@@ -14,7 +14,6 @@
 - 🧬 Trained NLP models using BERT, BiLSTM+Attention, and real-time moderation bots
 - 🎨 Designing sleek UIs with **Three.js**, **Tailwind**, and modern UX
 - 🌐 Hosting free websites via **Netlify**, **Vercel**, and more
-- ⚡ Fun fact: I believe in pixel-perfect code & padel smashes 🎾
 
 
 <!-- Tech Stack -->
